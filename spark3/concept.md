@@ -10,7 +10,9 @@
   : Group values with the same key
 - sortByKey()
   : Sort RDD by key values
-  > your transformation doesn't affect the keys.
+
+**your transformation doesn't affect the keys.**
+
 - mapValues()
   : 1:1
 - flatMapValues()
