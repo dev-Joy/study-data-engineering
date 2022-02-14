@@ -17,3 +17,7 @@
   : 1:1
 - flatMapValues()
   : N:1
+
+- filter()
+  : filtering depend on condition
+  ###### parsedLines.filter(x => x.\_2 == "TMIN")
