@@ -1,5 +1,7 @@
 # Information
 
+[dataengineering.wiki](https://dataengineering.wiki/Learning+Resources)
+
 ### Skills
 
 > Python, Java, Scala  
