@@ -6,4 +6,5 @@
 
 [Learn Data Engineering](https://kanger.dev/learn-data-engineering/)  
 [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)  
-[Kimball's Data Warehouse Toolkit Classics](https://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf)
+[Kimball's Data Warehouse Toolkit Classics](https://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf)  
+[Data Engineering with Apache Spark, Delta Lake, and Lakehouse](https://www.oreilly.com/library/view/data-engineering-with/9781801077743/)
