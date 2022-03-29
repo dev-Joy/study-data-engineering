@@ -6,3 +6,4 @@
 [Apache Airflow for Beginners Tutorial Series](https://github.com/coder2j/airflow-docker)
 
 [Beam College: lessons about data processing with Apache Beam](https://beamcollege.dev/past-sessions/)
+[10 Data Engineer Courses for Online Learning](https://gisgeography.com/data-engineer-courses-online/)
